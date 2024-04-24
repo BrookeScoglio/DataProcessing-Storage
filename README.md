@@ -1,4 +1,5 @@
-# Data Processing and Storage Database for ESEP EC Assignment
+# Data Processing and Storage Database for ESEP Extra Credit Assignment
+
 # In-Memory Key-Value Database with Transaction Support
 
 This repository contains an implementation of an in-memory key-value database with transaction support. Below are the instructions for running the code and suggestions for improving it for official use.
